@@ -1,6 +1,7 @@
 {
   "name": "cardapp",
   "version": "0.1.0",
+  "homepage": "https://sunha-park.github.io/CardProjectFrontPage",
   "private": true,
   "dependencies": {
     "ag-grid-community": "^32.3.3",
