@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CardProjectFrontPage/static/css/main.d4f839f0.css",
+    "main.js": "/CardProjectFrontPage/static/js/main.849084cd.js",
+    "static/js/977.d9ffa643.chunk.js": "/CardProjectFrontPage/static/js/977.d9ffa643.chunk.js",
+    "static/js/455.a80ffe65.chunk.js": "/CardProjectFrontPage/static/js/455.a80ffe65.chunk.js",
+    "static/js/488.a0898521.chunk.js": "/CardProjectFrontPage/static/js/488.a0898521.chunk.js",
+    "static/media/card_1092_2.jpg": "/CardProjectFrontPage/static/media/card_1092_2.dd51d8a38a9e4cdd78fe.jpg",
+    "index.html": "/CardProjectFrontPage/index.html",
+    "main.d4f839f0.css.map": "/CardProjectFrontPage/static/css/main.d4f839f0.css.map",
+    "main.849084cd.js.map": "/CardProjectFrontPage/static/js/main.849084cd.js.map",
+    "977.d9ffa643.chunk.js.map": "/CardProjectFrontPage/static/js/977.d9ffa643.chunk.js.map",
+    "455.a80ffe65.chunk.js.map": "/CardProjectFrontPage/static/js/455.a80ffe65.chunk.js.map",
+    "488.a0898521.chunk.js.map": "/CardProjectFrontPage/static/js/488.a0898521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f839f0.css",
+    "static/js/main.849084cd.js"
+  ]
+}
